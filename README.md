@@ -1,12 +1,21 @@
-# NeonCLI ⚡
+# ⚡ NeonCLI
 
-A lightweight Python CLI tool.
+NeonCLI is a lightweight and beginner-friendly Python command-line tool that provides useful utilities like system information, password generation, and random jokes.
 
-## Features
-- System info viewer
-- Password generator
-- Random jokes
+---
 
-## Run
-pip install -r requirements.txt
-python main.py
+## 🚀 Features
+
+- 🖥️ System information viewer (OS, version, machine)
+- 🔐 Secure random password generator
+- 😂 Random jokes via API
+- ⚡ Simple and fast CLI interface
+
+---
+
+## 📦 Installation
+
+### 1. Download the project
+Download or clone this repository:
+```bash
+git clone https://github.com/your-username/NeonCLI.git
