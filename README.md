@@ -18,4 +18,4 @@ NeonCLI is a lightweight and beginner-friendly Python command-line tool that pro
 ### 1. Download the project
 Download or clone this repository:
 ```bash
-git clone https://github.com/your-username/NeonCLI.git
+git clone https://github.com/Ulquiorra4444/NeonCLI.git
