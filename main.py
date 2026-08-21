@@ -22,7 +22,7 @@ while True:
         print("Joke:", utils.get_joke())
 
     elif choice == "4":
-        print("Exiting... 👋")
+        print("Exiting... ")
         break
 
     else:
